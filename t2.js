@@ -2,6 +2,8 @@ let startTime, updatedTime, difference, tInterval;
 let running = false;
 let lapCounter = 1;
 
+difference = 0;
+
 const display = document.getElementById('display');
 const startPauseBtn = document.getElementById('startPauseBtn');
 const resetBtn = document.getElementById('resetBtn');
