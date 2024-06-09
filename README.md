@@ -1,6 +1,6 @@
 # PRODIGY_WD_02
 
-Task-2 Stopwatch Web Application
+# Task-2 Stopwatch Web Application
 <br>
 Description:
 <br>
