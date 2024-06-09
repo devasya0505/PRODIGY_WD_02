@@ -5,7 +5,7 @@
 Description:
 <br>
 This project is a simple and interactive stopwatch web application built using HTML, CSS, and JavaScript. It allows users to start, pause, and reset the stopwatch, as well as record lap times. The application is designed to be user-friendly and efficient for measuring and recording time intervals.
-
+<br>
 Features:
 <br>
 Start/Stop: Begin or pause the stopwatch.
